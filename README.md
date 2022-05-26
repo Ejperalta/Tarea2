@@ -141,7 +141,9 @@ Sección 3-5 introducción a la localización de fallas
 ![image](https://user-images.githubusercontent.com/105829461/170435303-00df07af-24d2-4bb0-ae8f-e9123bc351a8.png)
 
 Capítulo 4
+
 Problemas 
+
 Sección 4-1 Energía y potencia
 
 2. Demuestre que hay 3.6 X 10^6 joules en un kilowatt-hora
@@ -183,12 +185,15 @@ SECCIÓN 4–2 Potencia en un circuito eléctrico
 24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
 
 ![image](https://user-images.githubusercontent.com/105829461/170435928-da5786fa-9fa5-493b-a355-262b8699309a.png)
+
 El resistor puede ser de 25Ω 
+
 SECCIÓN 4–3 Clasificaciones de potencia en resistores.
 
 26. Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
 
 ![image](https://user-images.githubusercontent.com/105829461/170436030-00b4b238-6ba7-47a9-9be7-601ac143de51.png)
+
 Se deberá ocupar un resistor de potencia estándar de 1W porque la potencia es de 0.68W
 
 SECCIÓN 4–4 Conversión de energía y caída de voltaje en una resistencia 
@@ -206,7 +211,7 @@ SECCIÓN 4–5 Fuentes de potencia
 
 32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
 
-![image](https://user-images.githubusercontent.com/105829461/170436367-83ba99ee-997c-4cb9-8d17-eb06764cfa53.png)
+![image](https://user-images.githubusercontent.com/105829461/170436829-07518ad6-7864-4f17-8e9c-a1bec50535d8.png)
 
 34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
 
