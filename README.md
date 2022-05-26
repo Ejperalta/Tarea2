@@ -83,6 +83,12 @@ e) V= 66 kV, R=10 MΩ
 
 20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
 
+![image](https://user-images.githubusercontent.com/105829461/170438115-21b2a8c1-8288-4744-b573-6a26e0d4149c.png)
+
+reistencia = 37.4 ohms
+
+![image](https://user-images.githubusercontent.com/105829461/170438201-177848ee-1c20-4cb1-a400-602dee9b9e4c.png)
+
 
 22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 Ω o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
 
@@ -95,23 +101,53 @@ e) V= 66 kV, R=10 MΩ
 
 a) I =1mA, R = 10Ω
 
+![image](https://user-images.githubusercontent.com/105829461/170438297-f8b4864e-f67f-4272-8484-52a4851c4776.png)
+
+
 b) I =50 mA, R = 33Ω
+
+![image](https://user-images.githubusercontent.com/105829461/170438406-58fad45c-8cfe-4a7a-ba45-42705f8b39d6.png)
+
 
 c) I = 3A, R = 5.6kΩ
 
+![image](https://user-images.githubusercontent.com/105829461/170438543-c49dbdd2-7700-4166-8c08-4a7acdd440ba.png)
+
+
 d) I =1.6mA, R = 2.2kΩ
+
+![image](https://user-images.githubusercontent.com/105829461/170438658-c63b57b5-0be5-401c-9247-a8272a044702.png)
+
 
 e) I =250 µA, R = 1.0KΩ
 
+![image](https://user-images.githubusercontent.com/105829461/170438748-a2b25c3c-a7de-409c-969e-6a21e0e6e9da.png)
+
+
 f) I =500 mA, R = 1.5MΩ
+
+![image](https://user-images.githubusercontent.com/105829461/170438820-99067b82-b217-46a7-b516-fe6a4794e063.png)
+
 
 g) I =850 µA, R = 10MΩ
 
+![image](https://user-images.githubusercontent.com/105829461/170438904-3a096e64-7455-4d3e-aea1-bfbff0f8a285.png)
+
+
 h) I =75 µA, R = 47 Ω
+
+![image](https://user-images.githubusercontent.com/105829461/170438973-a52a914c-5bcb-46dc-a3df-1043c2e620bb.png)
+
 
 26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
 
 ![image](https://user-images.githubusercontent.com/105829461/170435214-2dd4a30b-92f2-499b-a00d-c90f5e9801ee.png)
+
+a) ![image](https://user-images.githubusercontent.com/105829461/170439121-e2056acd-7498-4919-9dce-2ec187b760ad.png)
+
+b) ![image](https://user-images.githubusercontent.com/105829461/170439198-238ea0fc-df9d-4711-9947-c788d43b62bf.png)
+
+c) ![image](https://user-images.githubusercontent.com/105829461/170439283-e1a3fe58-2abf-4c78-abce-cdb30da4c5d1.png)
 
 Sección 3-4 cálculo de la resistencia
 
