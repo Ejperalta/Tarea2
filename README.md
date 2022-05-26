@@ -159,32 +159,32 @@ reistencia = 37.4 ohms
 
 a) I =1mA, R = 10Ω
 
-![image](https://user-images.githubusercontent.com/105829461/170438297-f8b4864e-f67f-4272-8484-52a4851c4776.png)
+![image](https://user-images.githubusercontent.com/105829461/170534296-913e5aa9-26bd-479b-90c3-3468327d5b78.png)
 
 
 b) I =50 mA, R = 33Ω
 
-![image](https://user-images.githubusercontent.com/105829461/170438406-58fad45c-8cfe-4a7a-ba45-42705f8b39d6.png)
+![image](https://user-images.githubusercontent.com/105829461/170534320-0609ea22-b5e9-4d99-9a57-81ca4d989a68.png)
 
 
 c) I = 3A, R = 5.6kΩ
 
-![image](https://user-images.githubusercontent.com/105829461/170438543-c49dbdd2-7700-4166-8c08-4a7acdd440ba.png)
+![image](https://user-images.githubusercontent.com/105829461/170534344-5a0e2cdb-0407-4aed-8ea2-e4b863f78f67.png)
 
 
 d) I =1.6mA, R = 2.2kΩ
 
-![image](https://user-images.githubusercontent.com/105829461/170438658-c63b57b5-0be5-401c-9247-a8272a044702.png)
+![image](https://user-images.githubusercontent.com/105829461/170534363-1ac038e9-497c-45e3-ac6f-4d9b0cf6ad6d.png)
 
 
 e) I =250 µA, R = 1.0KΩ
 
-![image](https://user-images.githubusercontent.com/105829461/170438748-a2b25c3c-a7de-409c-969e-6a21e0e6e9da.png)
+![image](https://user-images.githubusercontent.com/105829461/170534384-a7dd5ef1-c433-46a1-8f42-3f75b8cda481.png)
 
 
 f) I =500 mA, R = 1.5MΩ
 
-![image](https://user-images.githubusercontent.com/105829461/170438820-99067b82-b217-46a7-b516-fe6a4794e063.png)
+![image](https://user-images.githubusercontent.com/105829461/170534400-190cf8d3-5a5c-4a1f-ba26-3921deb3ffda.png)
 
 
 g) I =850 µA, R = 10MΩ
