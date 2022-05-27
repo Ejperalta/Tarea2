@@ -395,6 +395,8 @@ SECCIÓN 4–5 Fuentes de potencia
 
 4 Video
 
+https://youtu.be/jbsk7rLiYCw
+
 5 Concluciones
 
 las leyes de omh sirven para realizar calculos e identificar cuanta corriente puede recorrer el circuito ademas que con esa formula se puede
